@@ -501,7 +501,7 @@ span{
     }
 
     .navigation{
-        width: 600px;
+        width: 750px;
     }
 
     .section-one, .latestBlog-container{
@@ -571,7 +571,9 @@ span{
     h1 {
         font-size: 24px;
     }
-    
+    .navigation{
+        width: 620px;
+    }
 
     h2 {
         font-size: 20px;
